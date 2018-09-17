@@ -1,0 +1,8 @@
+192.168.56.1 - - [16/Sep/2018:19:43:44 +0000] "GET / HTTP/1.1" 200 85477 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0"
+192.168.56.1 - - [16/Sep/2018:19:43:44 +0000] "GET /robots.txt HTTP/1.1" 200 85443 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0"
+192.168.56.1 - - [16/Sep/2018:19:43:46 +0000] "GET /favicon.ico HTTP/1.1" 200 85324 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0"
+192.168.56.1 - - [16/Sep/2018:19:43:46 +0000] "GET /favicon.ico HTTP/1.1" 200 85204 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0"
+172.19.0.1 - - [16/Sep/2018:23:41:16 +0000] "GET / HTTP/1.1" 200 96247 "-" "curl/7.47.0"
+192.168.56.1 - - [16/Sep/2018:23:41:28 +0000] "GET / HTTP/1.1" 200 97235 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0"
+192.168.56.1 - - [16/Sep/2018:23:41:28 +0000] "GET /robots.txt HTTP/1.1" 200 97199 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0"
+192.168.56.1 - - [16/Sep/2018:23:53:59 +0000] "GET / HTTP/1.1" 200 97404 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0"
